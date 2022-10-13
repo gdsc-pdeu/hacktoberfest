@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.83fcf903.chunk.css",
+    "main.js": "./static/js/main.6669725e.chunk.js",
+    "main.js.map": "./static/js/main.6669725e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.516770c3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.516770c3.js.map",
+    "static/js/2.f7cce959.chunk.js": "./static/js/2.f7cce959.chunk.js",
+    "static/js/2.f7cce959.chunk.js.map": "./static/js/2.f7cce959.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.375c5b3118342447c526cb6bc49a9c70.js": "./precache-manifest.375c5b3118342447c526cb6bc49a9c70.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.83fcf903.chunk.css.map": "./static/css/main.83fcf903.chunk.css.map",
+    "static/js/2.f7cce959.chunk.js.LICENSE.txt": "./static/js/2.f7cce959.chunk.js.LICENSE.txt",
+    "static/media/attendance.jpg": "./static/media/attendance.305e3f04.jpg",
+    "static/media/code.jpg": "./static/media/code.09c66493.jpg",
+    "static/media/contribute.jpeg": "./static/media/contribute.c3f0581c.jpeg",
+    "static/media/style.scss": "./static/media/illustration-section-02.63d0555d.svg",
+    "static/media/expense.jpg": "./static/media/expense.cd755f76.jpg",
+    "static/media/faceDetection.jpg": "./static/media/faceDetection.fc98956b.jpg",
+    "static/media/fashion.jpg": "./static/media/fashion.2dd1afce.jpg",
+    "static/media/feature-tile-icon-01.svg": "./static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "./static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "./static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "./static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "./static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "./static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/healthiher.jpg": "./static/media/healthiher.75fc3d88.jpg",
+    "static/media/merge.png": "./static/media/merge.783f8c64.png",
+    "static/media/pioneer.jpg": "./static/media/pioneer.6673f24d.jpg",
+    "static/media/quiz.jpg": "./static/media/quiz.66f8fca3.jpg",
+    "static/media/register.jpeg": "./static/media/register.b57e38ce.jpeg",
+    "static/media/socialmedia.jpg": "./static/media/socialmedia.822d9c04.jpg",
+    "static/media/truth.jpg": "./static/media/truth.fbab2664.jpg",
+    "static/media/unipass.jpg": "./static/media/unipass.d0ff01e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.516770c3.js",
+    "static/js/2.f7cce959.chunk.js",
+    "static/css/main.83fcf903.chunk.css",
+    "static/js/main.6669725e.chunk.js"
+  ]
+}
